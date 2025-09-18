@@ -32,7 +32,11 @@ local MENUS = {
     ["ROLLBACK"] = {
         { name = "Rollback", link = "https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/RB.lua" },
        
-    }
+    },
+        ["AUTO WALK AFK"] = {
+        { name = "Rollback", link = "https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/afk.lua" },
+       
+    },
 }
 
 
