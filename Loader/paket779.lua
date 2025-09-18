@@ -34,7 +34,11 @@ local MENUS = {
        
     },
         ["AUTO WALK AFK"] = {
-        { name = "Rollback", link = "https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/afk.lua" },
+        { name = "AFK AUTO WALK", link = "https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/afk.lua" },
+       
+    },
+        ["CREATE AUTO WALK"] = {
+        { name = "RECORD", link = "https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/record.lua" },
        
     },
 }
