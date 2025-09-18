@@ -208,7 +208,7 @@ make(main, "TextLabel", {
 
 local miniIcon = make(screen, "TextButton", {
     Name = "MiniIcon",
-    Text = "☰",
+    Text = "🌠",
     Size = UDim2.new(0, 44, 0, 44),
     Position = UDim2.new(0, 18, 0.82, 0),
     BackgroundColor3 = Color3.fromRGB(32,36,60),
