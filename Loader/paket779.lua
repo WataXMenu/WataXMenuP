@@ -18,7 +18,7 @@ local MENUS = {
         { name = "Mount Arunika", link = "https://raw.githubusercontent.com/WataXScript/WataXMountArunika/main/Loader/mainmap991.lua" },
         { name = "Mount Ravika", link = "https://raw.githubusercontent.com/WataXScript/WataXMountRavika/main/Loader/mainmap449.lua" },
         { name = "Mount Lembayana", link = "https://raw.githubusercontent.com/WataXScript/WataXMountLembayana/main/Loader/mainmap772.lua" },
-        { name = "Mount Batu", link = "https://raw.githubusercontent.com/WataXScript/WataXMountBatu/main/Loader/mainmap772.lua" },
+        { name = "Mount Batu", link = "https://raw.githubusercontent.com/WataXScript/WataXMountBatu/main/Loader/mainmap498.lua" },
 
     },
     ["CHEAT MENU"] = {
