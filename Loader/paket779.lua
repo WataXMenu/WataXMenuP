@@ -25,6 +25,7 @@ local MENUS = {
         { name = "Fly", link = "https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/fly.lua" },
         { name = "INF JUMP", link = "https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/infjump.lua" },
         { name = "TP MENU", link = "https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/tp.lua" },
+        { name = "RUSUH", link = "https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/rusuh2.lua" },
     },
     ["FIX LAG"] = {
         { name = "Potato Mode", link = "https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/Potato.lua" },
@@ -208,7 +209,7 @@ make(main, "TextLabel", {
 
 local miniIcon = make(screen, "TextButton", {
     Name = "MiniIcon",
-    Text = "🌠",
+    Text = "🌠WataX",
     Size = UDim2.new(0, 44, 0, 44),
     Position = UDim2.new(0, 18, 0.82, 0),
     BackgroundColor3 = Color3.fromRGB(32,36,60),
