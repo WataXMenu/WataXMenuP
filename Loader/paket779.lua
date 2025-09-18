@@ -18,12 +18,13 @@ local MENUS = {
         { name = "Mount Arunika", link = "https://raw.githubusercontent.com/WataXScript/WataXMountArunika/main/Loader/mainmap991.lua" },
         { name = "Mount Ravika", link = "https://raw.githubusercontent.com/WataXScript/WataXMountRavika/main/Loader/mainmap449.lua" },
         { name = "Mount Lembayana", link = "https://raw.githubusercontent.com/WataXScript/WataXMountLembayana/main/Loader/mainmap772.lua" },
+        { name = "Mount Batu", link = "https://raw.githubusercontent.com/WataXScript/WataXMountBatu/main/Loader/mainmap772.lua" },
 
     },
     ["CHEAT MENU"] = {
         { name = "Fly", link = "https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/fly.lua" },
         { name = "INF JUMP", link = "https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/infjump.lua" },
-        { name = "INF JUMP", link = "https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/tp.lua" },
+        { name = "TP MENU", link = "https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/tp.lua" },
     },
     ["FIX LAG"] = {
         { name = "Potato Mode", link = "https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/Potato.lua" },
