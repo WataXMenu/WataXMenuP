@@ -40,7 +40,7 @@ local MENUS = {
        
     },
         ["CREATE AUTO WALK"] = {
-        { name = "RECORD", link = "https://raw.githubusercontent.com/WataXScript/CreateAuto/refs/heads/main/Loader/Loader.lua" },
+        { name = "MENU", link = "https://raw.githubusercontent.com/WataXScript/CreateAuto/refs/heads/main/Loader/Loader.lua" },
        
     },
 }
