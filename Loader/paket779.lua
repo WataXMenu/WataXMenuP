@@ -31,8 +31,9 @@ local MENUS = {
         { name = "Potato Mode", link = "https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/Potato.lua" },
        
     },
-    ["ROLLBACK"] = {
+    ["LAIN NYA (TIDAK TERLALU AMAN)"] = {
         { name = "Rollback", link = "https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/RB.lua" },
+       { name = "AUTO SUMMIT DAUN", link = "https://raw.githubusercontent.com/WataXScript/WataXSummitDaun/refs/heads/main/Loader/Loader.lua" },
        
     },
         ["AUTO WALK AFK"] = {
