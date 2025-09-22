@@ -20,6 +20,7 @@ local MENUS = {
         { name = "Mount Lembayana", link = "https://raw.githubusercontent.com/WataXScript/WataXMountLembayana/main/Loader/mainmap772.lua" },
         { name = "Mount Batu", link = "https://raw.githubusercontent.com/WataXScript/WataXMountBatu/main/Loader/mainmap498.lua" },
         { name = "Mount YNTKTS", link = "https://raw.githubusercontent.com/WataXScript/WataXMount700YntKts/main/Loader/mainmap437.lua" },
+        { name = "Mount Sakahayang", link = "https://raw.githubusercontent.com/WataXScript/WataXMount977Sakahayang/main/Loader/mainmap925.lua" },
 
     },
     ["CHEAT MENU"] = {
@@ -32,7 +33,7 @@ local MENUS = {
         { name = "Potato Mode", link = "https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/Potato.lua" },
        
     },
-    ["LAIN NYA (TIDAK TERLALU AMAN)"] = {
+    ["LAINNYA (TIDAK TERLALU AMAN)"] = {
         { name = "Rollback", link = "https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/RB.lua" },
        { name = "AUTO SUMMIT DAUN", link = "https://raw.githubusercontent.com/WataXScript/WataXSummitDaun/refs/heads/main/Loader/Loader.lua" },
        
