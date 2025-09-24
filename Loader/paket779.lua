@@ -23,7 +23,7 @@ local MENUS = {
         { name = "Mount Sakahayang", link = "https://raw.githubusercontent.com/WataXScript/WataXMount977Sakahayang/main/Loader/mainmap925.lua" },
         { name = "Mount Hana", link = "https://raw.githubusercontent.com/WataXScript/WataX4007MountHana/main/Loader/mainmap337.lua" },
         { name = "Mount Stecu", link = "https://raw.githubusercontent.com/WataXScript/WataXStecuMount43/main/Loader/mainmap672.lua" },
-        { name = "Mount Stecu", link = "https://raw.githubusercontent.com/WataXScript/WataXMountCkptw/main/Loader/mainmap691.lua" },
+        { name = "Mount Ckptw", link = "https://raw.githubusercontent.com/WataXScript/WataXMountCkptw/main/Loader/mainmap691.lua" },
 
     },
     ["CHEAT MENU"] = {
