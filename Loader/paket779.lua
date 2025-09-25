@@ -32,7 +32,7 @@ Wall.Position = UDim2.new(0,0,0,0)
 Wall.BorderSizePixel = 0
 Wall.BackgroundTransparency = 1
 Instance.new("UICorner",Wall).CornerRadius = UDim.new(0,30) 
-Wall.Image = "rbxassetid://82001465364029"
+Wall.Image = "rbxassetid://86094373990161"
 Wall.ScaleType = Enum.ScaleType.Fit
 Wall.BackgroundTransparency = 0   -- uji
 Wall.BackgroundColor3 = Color3.fromRGB(0,0,0)
@@ -64,6 +64,7 @@ local apps = {
     {name="Cheat Menu", emoji="🛠️", color=Color3.fromRGB(231,76,60)},
     {name="Fitur Lain", emoji="✨", color=Color3.fromRGB(155,89,182)},
     {name="Fix Lag", emoji="⚡", color=Color3.fromRGB(241,196,15)},
+    {name="Wallpaper", emoji="🖼️", color=Color3.fromRGB(0,170,255)},
 }
 local pages = {
     ["Auto Walk"] = {
@@ -98,14 +99,19 @@ local pages = {
         {text="Potato Mode",  link="https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/Potato.lua"},
 
     },
+    ["Wallpaper"] = {
+    {text="Wallpaper 1", action=function() Wall.Image = "rbxassetid://86094373990161" end},
+    {text="Wallpaper 2", action=function() Wall.Image = "rbxassetid://108675956620950" end},
+    {text="Wallpaper 3", action=function() Wall.Image = "rbxassetid://82001465364029" end},
+},
 }
 
 
 local AppContainer = Instance.new("Frame")
 AppContainer.Parent = Phone
 AppContainer.BackgroundTransparency = 1
-AppContainer.Size = UDim2.new(1,-14,1,-80)
-AppContainer.Position = UDim2.new(0,7,0,40)
+AppContainer.Size = UDim2.new(1,-14,0,200)
+AppContainer.Position = UDim2.new(0,7,1,-170)
 local Grid = Instance.new("UIGridLayout",AppContainer)
 Grid.CellSize = UDim2.new(0,50,0,60)
 Grid.CellPadding = UDim2.new(0,8,0,6)
@@ -170,13 +176,19 @@ local function openPage(appName)
             b.TextColor3 = Color3.new(1,1,1)
             b.Text = info.text
             Instance.new("UICorner",b).CornerRadius = UDim.new(0,12)
-            b.MouseButton1Click:Connect(function()
-                local ok,err = pcall(function()
-                    local code = game:HttpGet(info.link)
-                    if loadstring then loadstring(code)() end
-                end)
-                if not ok then warn("Error:",err) end
-            end)
+b.MouseButton1Click:Connect(function()
+    if info.action then
+        
+        info.action()
+    elseif info.link then
+        
+        local ok,err = pcall(function()
+            local code = game:HttpGet(info.link)
+            if loadstring then loadstring(code)() end
+        end)
+        if not ok then warn("Error:",err) end
+    end
+end)
         end
     else
         local lbl = Instance.new("TextLabel")
