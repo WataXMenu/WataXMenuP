@@ -4,6 +4,15 @@ local HttpService = game:GetService("HttpService")
 local player = Players.LocalPlayer
 
 
+_G.WataX_Replay = _G.WataX_Replay or false
+
+
+if not _G.WataX_Replay then
+    warn("Replay")
+    return
+end
+
+
 local gui = player:WaitForChild("PlayerGui")
 if gui:FindFirstChild("iPhoneUI") then gui.iPhoneUI:Destroy() end
 
@@ -270,3 +279,5 @@ Open.TextSize = 20
 Open.TextColor3 = Color3.new(1,1,1)
 Instance.new("UICorner",Open).CornerRadius = UDim.new(1,0)
 Open.MouseButton1Click:Connect(function() Phone.Visible = true end)
+
+_G.WataX_Replay = false
