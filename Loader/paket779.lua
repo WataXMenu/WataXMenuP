@@ -279,5 +279,3 @@ Open.TextSize = 20
 Open.TextColor3 = Color3.new(1,1,1)
 Instance.new("UICorner",Open).CornerRadius = UDim.new(1,0)
 Open.MouseButton1Click:Connect(function() Phone.Visible = true end)
-
-_G.WataX_Replay = false
