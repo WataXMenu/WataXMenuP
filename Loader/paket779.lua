@@ -79,7 +79,8 @@ local pages = {
     ["Auto Walk"] = {
         {text="BYPASS", link="https://raw.githubusercontent.com/WataXScript/WataXMountAtin/main/Loader/WataX.lua"},
         {text="Mount Atin", link="https://raw.githubusercontent.com/WataXScript/WataXMountAtin/main/Loader/mainmap792.lua"},
-        {text="Mount Yahayuk",  link="https://raw.githubusercontent.com/WataXScript/WataXMountYahayuk1/main/Loader/mainmap970.lua"},
+        {text="Mount Yahayuk", link="https://raw.githubusercontent.com/WataXScript/WataXMountYahayuk1/main/Loader/mainmap970.lua"},
+        {text="Mount Kalista", link="https://raw.githubusercontent.com/WataXScript/WataXMountKalista/refs/heads/main/Loader/mainmap700.lua"},
         {text="Mount Daun",  link="https://raw.githubusercontent.com/WataXScript/WataXMountDaun/main/Loader/mainmap926.lua"},
         {text="Mount Arunika",  link="https://raw.githubusercontent.com/WataXScript/WataXMountArunika/main/Loader/mainmap991.lua"},
         {text="Mount Lembayana",  link="https://raw.githubusercontent.com/WataXScript/WataXMountLembayana/main/Loader/mainmap772.lua"},
