@@ -1,4 +1,4 @@
--- iPhone UI Full Fix – semua tombol muncul
+
 local Players = game:GetService("Players")
 local HttpService = game:GetService("HttpService")
 local player = Players.LocalPlayer
@@ -92,6 +92,7 @@ local pages = {
         {text="Mount Ravika",  link="https://raw.githubusercontent.com/WataXScript/WataXMountRavika/main/Loader/mainmap449.lua"},
         {text="Mount Batu",  link="https://raw.githubusercontent.com/WataXScript/WataXMountBatu/main/Loader/mainmap498.lua"},
         {text="Antartika Normal",  link="https://raw.githubusercontent.com/WataXScript/WataXAntartika157/main/Loader/mainmap273.lua"},
+        {text="Ekspedisi Kaliya", link="https://raw.githubusercontent.com/WataXScript/WataXMountKaliya/refs/heads/main/Loader/mainmap307.lua"},
     },
     ["Create Walk"] = {
         {text="Menu Create", link="https://raw.githubusercontent.com/WataXScript/CreateAuto/refs/heads/main/Loader/Loader.lua"},
