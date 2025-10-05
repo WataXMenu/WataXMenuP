@@ -92,6 +92,9 @@ local pages = {
         {text="Mount Ravika",  link="https://raw.githubusercontent.com/WataXScript/WataXMountRavika/main/Loader/mainmap449.lua"},
         {text="Mount Batu",  link="https://raw.githubusercontent.com/WataXScript/WataXMountBatu/main/Loader/mainmap498.lua"},
         {text="Antartika Normal",  link="https://raw.githubusercontent.com/WataXScript/WataXAntartika157/main/Loader/mainmap273.lua"},
+        {text="Mount Salvatore", link="https://raw.githubusercontent.com/WataXScript/WataXMountSalvatore/refs/heads/main/Loader/mainmap2.lua"},
+        {text="Mount Kirey", link=""},
+        {text="Mount Pargoy", link=""},
         {text="Ekspedisi Kaliya", link="https://raw.githubusercontent.com/WataXScript/WataXMountKaliya/refs/heads/main/Loader/mainmap307.lua"},
     },
     ["Create Walk"] = {
