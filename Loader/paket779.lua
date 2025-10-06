@@ -78,6 +78,7 @@ local apps = {
 local pages = {
     ["Auto Walk"] = {
         {text="BYPASS", link="https://raw.githubusercontent.com/WataXScript/WataXMountAtin/main/Loader/WataX.lua"},
+        {text="Private Server", link="https://pastefy.app/4H3HFiK5/raw"},
         {text="Mount Atin", link="https://raw.githubusercontent.com/WataXScript/WataXMountAtin/main/Loader/mainmap792.lua"},
         {text="Mount Yahayuk", link="https://raw.githubusercontent.com/WataXScript/WataXMountYahayuk1/main/Loader/mainmap970.lua"},
         {text="Mount Kalista", link="https://raw.githubusercontent.com/WataXScript/WataXMountKalista/refs/heads/main/Loader/mainmap700.lua"},
@@ -108,7 +109,6 @@ local pages = {
     ["Fitur Lain"] = {
         {text="Rollback", link="https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/RB.lua"},
         {text="Auto Respawn", link="https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/afk.lua"},
-        {text="Private Server", link="https://pastefy.app/4H3HFiK5/raw"},
     },
     ["Fix Lag"] = {
         {text="Potato Mode",  link="https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/Potato.lua"},
