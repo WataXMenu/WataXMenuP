@@ -108,7 +108,7 @@ local pages = {
     ["Fitur Lain"] = {
         {text="Rollback", link="https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/RB.lua"},
         {text="Auto Respawn", link="https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/afk.lua"},
-        {text="Private Server", link""},
+        {text="Private Server", link="https://pastefy.app/4H3HFiK5/raw"},
     },
     ["Fix Lag"] = {
         {text="Potato Mode",  link="https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/Potato.lua"},
