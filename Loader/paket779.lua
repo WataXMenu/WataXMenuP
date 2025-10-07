@@ -4,6 +4,14 @@ local HttpService = game:GetService("HttpService")
 local player = Players.LocalPlayer
 local gui = player:WaitForChild("PlayerGui")
 
+_G.WataX_Replay = _G.WataX_Replay or false
+
+
+if not _G.WataX_Replay then
+    warn("Replay")
+    return
+end
+
 if gui:FindFirstChild("iPhoneUI") then gui.iPhoneUI:Destroy() end
 
 local ScreenGui = Instance.new("ScreenGui")
