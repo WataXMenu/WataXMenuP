@@ -3,8 +3,8 @@ local Players = game:GetService("Players")
 local StarterGui = game:GetService("StarterGui")
 local player = Players.LocalPlayer
 
-local urlVip = "https://raw.githubusercontent.com/WataXScript/VerifikasiScWata/refs/heads/main/Loader/vip.txt"
-local urlSatuan = "https://raw.githubusercontent.com/WataXScript/VerifikasiScWata/refs/heads/main/Loader/vip.txt"
+local urlVip = "https://raw.githubusercontent.com/WataXMenu/WataXVipSistem/refs/heads/main/vip.txt"
+local urlSatuan = "https://raw.githubusercontent.com/WataXMenu/WataXVipSistem/refs/heads/main/vip.txt"
 
 local successUrls = {
     "https://raw.githubusercontent.com/WataXMenu/WataXMenuP/refs/heads/main/Loader/paket779.lua",
