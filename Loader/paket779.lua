@@ -120,7 +120,7 @@ local pages = {
         {text="Mount Kalista", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m12.lua"},
         {text="Mount Daun",  link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m3.lua"},
         {text="Mount Arunika",  link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m4.lua"},
-        {text="Mount Lembayana",  link=https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m6.lua"},
+        {text="Mount Lembayana",  link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m6.lua"},
         {text="Mount YNTKTS",  link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m8.lua"},
         {text="Mount Sakahayang",  link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m7.lua"},
         {text="Mount Hana",  link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m9.lua"},
