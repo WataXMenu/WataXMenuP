@@ -4,14 +4,6 @@ local HttpService = game:GetService("HttpService")
 local player = Players.LocalPlayer
 local gui = player:WaitForChild("PlayerGui")
 
-_G.WataX_Replay = _G.WataX_Replay or false
-
-
-if not _G.WataX_Replay then
-    warn("Replay")
-    return
-end
-
 if gui:FindFirstChild("iPhoneUI") then gui.iPhoneUI:Destroy() end
 
 local ScreenGui = Instance.new("ScreenGui")
@@ -123,24 +115,23 @@ local apps = {
 
 local pages = {
 	["Auto Walk"] = {
-        {text="Mount Atin", link="https://raw.githubusercontent.com/WataXScript/WataXMountAtin/main/Loader/mainmap792.lua"},
-        {text="Mount Yahayuk", link="https://raw.githubusercontent.com/WataXScript/WataXMountYahayuk1/main/Loader/mainmap970.lua"},
-        {text="Mount Kalista", link="https://raw.githubusercontent.com/WataXScript/WataXMountKalista/refs/heads/main/Loader/mainmap700.lua"},
-        {text="Mount Daun",  link="https://raw.githubusercontent.com/WataXScript/WataXMountDaun/main/Loader/mainmap926.lua"},
-        {text="Mount Arunika",  link="https://raw.githubusercontent.com/WataXScript/WataXMountArunika/main/Loader/mainmap991.lua"},
-        {text="Mount Lembayana",  link="https://raw.githubusercontent.com/WataXScript/WataXMountLembayana/main/Loader/mainmap772.lua"},
-        {text="Mount YNTKTS",  link="https://raw.githubusercontent.com/WataXScript/WataXMount700YntKts/main/Loader/mainmap437.lua"},
-        {text="Mount Sakahayang",  link="https://raw.githubusercontent.com/WataXScript/WataXMount977Sakahayang/main/Loader/mainmap925.lua"},
-        {text="Mount Hana",  link="https://raw.githubusercontent.com/WataXScript/WataX4007MountHana/main/Loader/mainmap337.lua"},
-        {text="Mount Stecu",  link="https://raw.githubusercontent.com/WataXScript/WataXStecuMount43/main/Loader/mainmap672.lua"},
-        {text="Mount Ckptw",  link="https://raw.githubusercontent.com/WataXScript/WataXMountCkptw/main/Loader/mainmap691.lua"},
-        {text="Mount Ravika",  link="https://raw.githubusercontent.com/WataXScript/WataXMountRavika/main/Loader/mainmap449.lua"},
-        {text="Mount Batu",  link="https://raw.githubusercontent.com/WataXScript/WataXMountBatu/main/Loader/mainmap498.lua"},
-        {text="Antartika Normal",  link="https://raw.githubusercontent.com/WataXScript/WataXAntartika157/main/Loader/mainmap273.lua"},
-        {text="Mount Salvatore", link="https://raw.githubusercontent.com/WataXScript/WataXMountSalvatore/refs/heads/main/Loader/mainmap2.lua"},
-        {text="Mount Kirey", link="https://raw.githubusercontent.com/WataXScript/WataXMountKirey/refs/heads/main/Loader/mainmap1.lua"},
-        {text="Mount Pargoy", link="https://raw.githubusercontent.com/WataXScript/WataXMountPargoy/refs/heads/main/Loader/mainmap766.lua"},
-        {text="Ekspedisi Kaliya", link="https://raw.githubusercontent.com/WataXScript/WataXMountKaliya/refs/heads/main/Loader/mainmap307.lua"},
+        {text="Mount Atin", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m1.lua"},
+        {text="Mount Yahayuk", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m2.lua"},
+        {text="Mount Kalista", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m12.lua"},
+        {text="Mount Daun",  link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m3.lua"},
+        {text="Mount Arunika",  link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m4.lua"},
+        {text="Mount Lembayana",  link=https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m6.lua"},
+        {text="Mount YNTKTS",  link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m8.lua"},
+        {text="Mount Sakahayang",  link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m7.lua"},
+        {text="Mount Hana",  link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m9.lua"},
+        {text="Mount Stecu",  link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m10.lua"},
+        {text="Mount Ckptw",  link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m11.lua"},
+        {text="Mount Ravika",  link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m5.lua"},
+        {text="Antartika Normal",  link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m14.lua"},
+        {text="Mount Salvatore", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m15.lua"},
+        {text="Mount Kirey", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m16.lua"},
+        {text="Mount Pargoy", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m17.lua"},
+        {text="Ekspedisi Kaliya", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m13.lua"},
 },
     ["Create Walk"] = {
         {text="Menu Create", link="https://raw.githubusercontent.com/WataXScript/CreateAuto/refs/heads/main/Loader/Loader.lua"},
