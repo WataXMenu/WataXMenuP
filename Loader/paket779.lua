@@ -136,6 +136,8 @@ local pages = {
         {text="Mount Mono", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m19.lua"},
         {text="Mount Yareuu", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m20.lua"},
         {text="Mount Serenity", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m21.lua"},
+		{text="Mount Pedaunan", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m22.lua"},
+        {text="Mount Pengangguran", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m23.lua"},
 		
 },
     ["Create Walk"] = {
