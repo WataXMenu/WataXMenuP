@@ -132,6 +132,11 @@ local pages = {
         {text="Mount Kirey", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m16.lua"},
         {text="Mount Pargoy", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m17.lua"},
         {text="Ekspedisi Kaliya", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m13.lua"},
+		{text="Mount Forever", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m18.lua"},
+        {text="Mount Mono", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m19.lua"},
+        {text="Mount Yareuu", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m20.lua"},
+        {text="Mount Serenity", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m21.lua"},
+		
 },
     ["Create Walk"] = {
         {text="Menu Create", link="https://raw.githubusercontent.com/WataXScript/CreateAuto/refs/heads/main/Loader/Loader.lua"},
