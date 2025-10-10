@@ -142,7 +142,8 @@ local pages = {
         {text="Mount Kawaii", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m25.lua"},
 		{text="Mount Runia", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m26.lua"},
         {text="Mount Swiss", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m27.lua"},
-			
+		{text="Mount Aneh (hard)", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m28.lua"},
+				
 },
     ["Create Walk"] = {
         {text="Menu Create", link="https://raw.githubusercontent.com/WataXScript/CreateAuto/refs/heads/main/Loader/Loader.lua"},
