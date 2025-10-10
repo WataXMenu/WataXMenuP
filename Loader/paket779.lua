@@ -138,7 +138,11 @@ local pages = {
         {text="Mount Serenity", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m21.lua"},
 		{text="Mount Pedaunan", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m22.lua"},
         {text="Mount Pengangguran", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m23.lua"},
-		
+	    {text="Mount Bingung", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m24.lua"},
+        {text="Mount Kawaii", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m25.lua"},
+		{text="Mount Runia", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m26.lua"},
+        {text="Mount Swiss", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m27.lua"},
+			
 },
     ["Create Walk"] = {
         {text="Menu Create", link="https://raw.githubusercontent.com/WataXScript/CreateAuto/refs/heads/main/Loader/Loader.lua"},
