@@ -115,7 +115,7 @@ local apps = {
 
 local pages = {
 	["Auto Walk"] = {
-		{text="Mount Atin", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/autoafk.lua"},
+		{text="Auto Afk", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/autoafk.lua"},
         {text="Mount Atin", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m1.lua"},
         {text="Mount Yahayuk", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m2.lua"},
         {text="Mount Kalista", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m12.lua"},
