@@ -29,10 +29,16 @@ local function isVerified(uname)
 
     local function checkList(list)
         for line in list:gmatch("[^\r\n]+") do
-            local nameOnly = line:match("^(.-)%s*%-%-") or line
-            nameOnly = nameOnly:match("^%s*(.-)%s*$")
-            if nameOnly:lower() == uname then
-                return true
+            -- Pisah antara username dan info (pakai --)
+            local namePart = line:match("^(.-)%s*%-%-") or line
+            namePart = namePart:match("^%s*(.-)%s*$")
+
+            -- Pisah berdasarkan koma
+            for name in namePart:gmatch("[^,]+") do
+                local trimmed = name:match("^%s*(.-)%s*$"):lower()
+                if trimmed == uname then
+                    return true
+                end
             end
         end
         return false
