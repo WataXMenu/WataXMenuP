@@ -115,6 +115,7 @@ local apps = {
 
 local pages = {
 	["Auto Walk"] = {
+		{text="Mount Atin", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/autoafk.lua"},
         {text="Mount Atin", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m1.lua"},
         {text="Mount Yahayuk", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m2.lua"},
         {text="Mount Kalista", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m12.lua"},
@@ -156,7 +157,6 @@ local pages = {
     },
     ["Fitur Lain"] = {
         {text="Rollback", link="https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/RB.lua"},
-        {text="Auto Respawn", link="https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/afk.lua"},
     },
     ["Fix Lag"] = {
         {text="Potato Mode",  link="https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/Potato.lua"},
