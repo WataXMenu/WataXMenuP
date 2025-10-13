@@ -145,6 +145,19 @@ local pages = {
         {text="Mount Swiss", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m27.lua"},
 		{text="Mount Aneh (hard)", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m28.lua"},
 		{text="Mount Lirae", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m29.lua"},
+		{text="Map Kota", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m30.lua"},
+		{text="Mount Mangu", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m31.lua"},
+		{text="Mount Aizla", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m32.lua"},
+		{text="Mount APA.YAH", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m33.lua"},
+		{text="Mount Kotak", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m34.lua"},
+		{text="Mount Malaikat", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m35.lua"},
+		{text="Puncak Mimpi", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m36.lua"},
+				
+				
+				
+				
+				
+				
 				
 },
     ["Create Walk"] = {
