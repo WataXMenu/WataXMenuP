@@ -156,7 +156,7 @@ local pages = {
 		{text="Mount Funny", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m38.lua"},
 		{text="Mount Imut", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m39.lua"},
 		{text="Mount Gataumales", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m40.lua"},
-		{text="Puncak Gess Ya", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m41.lua"},
+		{text="Mount Gess Ya", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m41.lua"},
 				
 				
 				
