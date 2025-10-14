@@ -152,6 +152,11 @@ local pages = {
 		{text="Mount Kotak", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m34.lua"},
 		{text="Mount Malaikat", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m35.lua"},
 		{text="Puncak Mimpi", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m36.lua"},
+		{text="Mount Age", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m37.lua"},
+		{text="Mount Funny", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m38.lua"},
+		{text="Mount Imut", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m39.lua"},
+		{text="Mount Gataudeh", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m40.lua"},
+		{text="Puncak Gess Ya", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m41.lua"},
 				
 				
 				
