@@ -116,7 +116,7 @@ local apps = {
 local pages = {
 	["Auto Walk"] = {
 		{text="Private Server", link="https://pastefy.app/GZ7bWPjP/raw"},
-		{text="Auto Afk", link="https://raw.githubusercontent.com/WataXMenu/WataXFullSc/refs/heads/main/autoafk.lua"},
+		{text="Auto Afk", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/autoafk.lua"},
         {text="Mount Atin", link="https://raw.githubusercontent.com/WataXMenu/WataXFullSc/refs/heads/main/m1.lua"},
         {text="Mount Sibuatan", link="https://raw.githubusercontent.com/WataXMenu/WataXFullSc/refs/heads/main/sibuatan.lua"},
         {text="Mount Yahayuk", link="https://raw.githubusercontent.com/WataXMenu/WataXFullSc/refs/heads/main/m2.lua"},
