@@ -137,7 +137,6 @@ local pages = {
 		{text="Mount Pedaunan", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m22.lua"},
         {text="Mount Pengangguran", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m23.lua"},
         {text="Mount Kawaii", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m25.lua"},
-        {text="Mount Swiss", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m27.lua"},
 		{text="Mount Aneh (hard)", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m28.lua"},
 		{text="Mount Lirae", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m29.lua"},
 		{text="Map Kota", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m30.lua"},
