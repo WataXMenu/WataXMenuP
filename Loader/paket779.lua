@@ -145,7 +145,7 @@ local pages = {
 		{text="Mount Funny", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m38.lua"},
 		{text="Mount Imut", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m39.lua"},
 		{text="Mount Serenity", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m21.lua"},
-				
+		{text="Puncak Mimpi", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m36.lua"},		
 				
 				
 				
