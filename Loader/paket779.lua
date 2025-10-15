@@ -144,6 +144,7 @@ local pages = {
 		{text="Mount Age", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m37.lua"},
 		{text="Mount Funny", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m38.lua"},
 		{text="Mount Imut", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m39.lua"},
+		{text="Mount Serenity", link="https://raw.githubusercontent.com/WataXMenu/WataXFull/refs/heads/main/m21.lua"},
 				
 				
 				
