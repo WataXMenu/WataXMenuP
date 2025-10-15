@@ -117,7 +117,7 @@ local pages = {
 	["Auto Walk"] = {
 		{text="Auto Afk", link="https://raw.githubusercontent.com/WataXMenu/WataXFullSc/refs/heads/main/autoafk.lua"},
         {text="Mount Atin", link="https://raw.githubusercontent.com/WataXMenu/WataXFullSc/refs/heads/main/m1.lua"},
-        {text="Mount Sibuatan", link="https://raw.githubusercontent.com/WataXMenu/WataXFullSc/refs/heads/main/sibuatan.lua"}
+        {text="Mount Sibuatan", link="https://raw.githubusercontent.com/WataXMenu/WataXFullSc/refs/heads/main/sibuatan.lua"},
         {text="Mount Yahayuk", link="https://raw.githubusercontent.com/WataXMenu/WataXFullSc/refs/heads/main/m2.lua"},
         {text="Mount Kalista", link="https://raw.githubusercontent.com/WataXMenu/WataXFullSc/refs/heads/main/m12.lua"},
         {text="Mount Daun",  link="https://raw.githubusercontent.com/WataXMenu/WataXFullSc/refs/heads/main/m3.lua"},
