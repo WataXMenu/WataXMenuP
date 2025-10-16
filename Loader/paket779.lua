@@ -165,7 +165,7 @@ local pages = {
     },
     ["Fitur Lain"] = {
         {text="Rollback", link="https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/RB.lua"},
-		{text="Copy Avatar", link"https://raw.githubusercontent.com/WataXMenu/WataXFullSc/refs/heads/main/avacopy.lua"},
+		{text="CopyAvatar", link"https://raw.githubusercontent.com/WataXMenu/WataXFullSc/refs/heads/main/avacopy.lua"},
     },
     ["Fix Lag"] = {
         {text="Potato Mode",  link="https://raw.githubusercontent.com/WataXScript/WataXCheat/main/Loader/Potato.lua"},
