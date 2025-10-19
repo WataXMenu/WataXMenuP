@@ -129,6 +129,7 @@ local pages = {
         {text="Mount Stecu",  link="https://raw.githubusercontent.com/WataXMenu/WataXFullSc/refs/heads/main/m10.lua"},
         {text="Mount Ckptw",  link="https://raw.githubusercontent.com/WataXMenu/WataXFullSc/refs/heads/main/m11.lua"},
         {text="Mount Ravika",  link="https://raw.githubusercontent.com/WataXMenu/WataXFullSc/refs/heads/main/m5.lua"},
+		{text="Antartika Hard",  link="https://raw.githubusercontent.com/WataXMenu/WataXFullSc/refs/heads/main/m70.lua"},
         {text="Antartika Normal",  link="https://raw.githubusercontent.com/WataXMenu/WataXFullSc/refs/heads/main/m14.lua"},
         {text="Mount Salvatore", link="https://raw.githubusercontent.com/WataXMenu/WataXFullSc/refs/heads/main/m15.lua"},
         {text="Mount Kirey", link="https://raw.githubusercontent.com/WataXMenu/WataXFullSc/refs/heads/main/m16.lua"},
